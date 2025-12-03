@@ -5,9 +5,9 @@ This is my home page! My name is Rajwinder Kaur and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/rajwinderkaur-tech.
+My GitHub page is http://github.com/rajwinderkaur-tech
 
-### CPSC 120 
+### CPSC 120L favorite labs
 
 * Lab 6 part-1
 
