@@ -1,7 +1,7 @@
 
 # Rajwinder Kaur's Portfolio
 
-This is my home page! My name is Rajwinder Kaur and I am a student at [Cal State Fullerton](http://fullerton.edu/) and my major is computer science.
+This is my home page! My name is Rajwinder Kaur and I am a computer science major at [Cal State Fullerton](http://fullerton.edu/).
 
 ## Computer Science Projects
 
